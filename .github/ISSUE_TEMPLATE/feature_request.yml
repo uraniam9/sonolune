@@ -1,0 +1,25 @@
+name: Feature request
+description: Something SonoLune should do
+labels: ["idea"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do
+      description: >
+        The situation, rather than the solution. Knowing what you are actually
+        trying to fix usually leads somewhere better than the first idea.
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What you had in mind
+    validations:
+      required: false
+
+  - type: textarea
+    id: today
+    attributes:
+      label: How you work around it today
