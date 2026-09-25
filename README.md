@@ -42,8 +42,9 @@ live, so there is one public place to raise something and see what changed.
 
 ## Cost
 
-Free, with optional supporter tiers — one-off, or a monthly Patron of the Lab that funds the
-sessions. Nothing in the seven suites is held back behind them.
+The core of all seven suites is free to use, with no account and no ads. Support is optional.
+A one-off purchase opens the deeper refinements, such as Paper matte in Light. Patron of the
+Lab, the one monthly option, covers the Lab sessions and the extra layers in each Sound pack.
 
 ## Also from here
 
