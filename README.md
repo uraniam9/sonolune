@@ -33,8 +33,8 @@ No streaks either, and that is deliberate. An app about calm has no business kee
 
 ## This repository
 
-SonoLune is closed source. This is where its bug reports, feature requests and release notes
-live, so there is one public place to raise something and see what changed.
+This is where SonoLune's bug reports, feature requests and release notes live, so there is one
+public place to raise something and see what changed.
 
 **[Report a bug](../../issues/new?template=bug_report.yml)** ·
 **[Request a feature](../../issues/new?template=feature_request.yml)** ·

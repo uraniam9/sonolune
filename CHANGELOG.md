@@ -2,8 +2,6 @@
 
 Every SonoLune release, newest first, from 1.0 in Feb 2026 to 2.4.3. These are the same notes the app shows in its Field Journal.
 
-SonoLune is closed source, so this repository holds its release notes and bug reports, not its code.
-
 Releases marked **Insider** went to testers and never reached the public store.
 
 ## 2.4.3 · 13 Sep 2026
