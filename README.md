@@ -37,7 +37,8 @@ SonoLune is closed source. This is where its bug reports, feature requests and r
 live, so there is one public place to raise something and see what changed.
 
 **[Report a bug](../../issues/new?template=bug_report.yml)** ·
-**[Request a feature](../../issues/new?template=feature_request.yml)**
+**[Request a feature](../../issues/new?template=feature_request.yml)** ·
+**[Release notes](CHANGELOG.md)**, every version since 1.0
 
 ## Cost
 
