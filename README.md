@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.soundsoftlab.sonolune"><img src="https://img.shields.io/badge/Google_Play-Get_SonoLune-2b1f14?style=for-the-badge&logo=googleplay&logoColor=f6e7cc" alt="Get it on Google Play"></a>
-  <a href="https://sonolune.app"><img src="https://img.shields.io/badge/sonolune.app-Website-2b1f14?style=for-the-badge&logo=googlechrome&logoColor=f6e7cc" alt="sonolune.app"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.soundsoftlab.sonolune"><img src="https://img.shields.io/badge/Google_Play-Get_SonoLune-2b1f14?style=for-the-badge&logo=googleplay&logoColor=f6e7cc" alt="Get it on Google Play"></a>&nbsp;&nbsp;
+  <a href="https://sonolune.app"><img src="https://img.shields.io/badge/sonolune.app-Website-2b1f14?style=for-the-badge&logo=googlechrome&logoColor=f6e7cc" alt="sonolune.app"></a>&nbsp;&nbsp;
   <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/Release_notes-Every_version-2b1f14?style=for-the-badge&logo=readthedocs&logoColor=f6e7cc" alt="Release notes"></a>
 </p>
 
